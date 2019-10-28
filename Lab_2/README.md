@@ -10,3 +10,7 @@
 ![image allert](screenshots/4.1.png)
 ##### 5. Переконався, що програма працює правильно.
 ![image allert](screenshots/5.1.png)
+##### 6. Встановив бібліотеку pytest.
+##### 7. Успішно виконав тести.
+![image allert](screenshots/7.1.png)
+
