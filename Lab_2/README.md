@@ -13,5 +13,7 @@
 ##### 6. Встановив бібліотеку pytest.
 ##### 7. Успішно виконав тести.
 ![image allert](screenshots/7.1.png)
-##### 8. Написав функцію яка перевіряє АМ і РМ в добі, у випадку AM виводить Good morning!, а при PM-Good evening!.
+##### 8. Написав функцію, яка перевіряє АМ і РМ в добі, у випадку AM виводить Good morning!, а при PM-Good evening!.
 ![image allert](screenshots/8.1.png)
+##### 9. Написав тест, що буде перевіряти правильність виконання моєї функції.
+![image allert](screenshots/9.1.png)
