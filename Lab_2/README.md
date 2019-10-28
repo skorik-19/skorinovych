@@ -6,4 +6,5 @@
 ![image allert](screenshots/1.3.png)
 ##### 3.  Встановив бібліотеки requests та ntplib.
 ![image allert](screenshots/3.1.png)
-
+##### 4. Створив файл app.py та скопіював туди код з репозиторію.
+![image allert](screenshots/4.1.png)
