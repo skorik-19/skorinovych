@@ -1,0 +1,37 @@
+============================= test session starts ==============================
+platform linux -- Python 3.7.5, pytest-5.2.2, py-1.8.0, pluggy-0.13.0
+rootdir: /home/skorik/Desktop/skorinovych/Lab_2
+collected 0 items / 1 errors
+
+==================================== ERRORS ====================================
+_______________________ ERROR collecting tests/tests.py ________________________
+../../../.local/share/virtualenvs/Lab_2-KuQNzpRq/lib/python3.7/site-packages/_pytest/python.py:501: in _importtestmodule
+    mod = self.fspath.pyimport(ensuresyspath=importmode)
+../../../.local/share/virtualenvs/Lab_2-KuQNzpRq/lib/python3.7/site-packages/py/_path/local.py:701: in pyimport
+    __import__(modname)
+<frozen importlib._bootstrap>:983: in _find_and_load
+    ???
+<frozen importlib._bootstrap>:967: in _find_and_load_unlocked
+    ???
+<frozen importlib._bootstrap>:677: in _load_unlocked
+    ???
+../../../.local/share/virtualenvs/Lab_2-KuQNzpRq/lib/python3.7/site-packages/_pytest/assertion/rewrite.py:133: in exec_module
+    source_stat, co = _rewrite_test(fn, self.config)
+../../../.local/share/virtualenvs/Lab_2-KuQNzpRq/lib/python3.7/site-packages/_pytest/assertion/rewrite.py:282: in _rewrite_test
+    tree = ast.parse(source, filename=fn)
+/usr/lib/python3.7/ast.py:35: in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+E     File "/home/skorik/Desktop/skorinovych/Lab_2/tests/tests.py", line 10
+E       self.d_am = 'AM'
+E                      ^
+E   TabError: inconsistent use of tabs and spaces in indentation
+!!!!!!!!!!!!!!!!!!! Interrupted: 1 errors during collection !!!!!!!!!!!!!!!!!!!!
+=============================== 1 error in 1.24s ===============================
+========================================
+Результат без параметрів: 
+No URL passed to function
+========================================
+Результат з правильною URL: 
+Time is:  09:17:29 PM
+Date is:  10-28-2019
+Good evening!
