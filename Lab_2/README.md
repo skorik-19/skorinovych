@@ -19,3 +19,9 @@
 ![image allert](screenshots/9.1.png)
 ##### 10. Перенаправив результат виконання тестів у файл results.txt , також за допомогою команди python app.py>>results.txt дописав результат виконання програми в файл.  
 ##### 11. Зробив коміт.
+##### 12-13. Заповнив Makefile необхідними командами.
+![image allert](screenshots/12.1.png)
+##### 14. Запустив Makefile командою make.
+![image allert](screenshots/14.1.png)
+![image allert](screenshots/14.2.png)
+

@@ -26,12 +26,4 @@ E       self.d_am = 'AM'
 E                      ^
 E   TabError: inconsistent use of tabs and spaces in indentation
 !!!!!!!!!!!!!!!!!!! Interrupted: 1 errors during collection !!!!!!!!!!!!!!!!!!!!
-=============================== 1 error in 1.24s ===============================
-========================================
-Результат без параметрів: 
-No URL passed to function
-========================================
-Результат з правильною URL: 
-Time is:  09:17:29 PM
-Date is:  10-28-2019
-Good evening!
+=============================== 1 error in 0.43s ===============================
