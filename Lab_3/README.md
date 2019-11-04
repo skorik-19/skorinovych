@@ -9,4 +9,5 @@
 ##### 7-10. Заповнив та відредагував файли main.html, urls.py, views.py. Після цього запустив сервер. 
 ![image allert](screenshots/7-10.1.png)
 ![image allert](screenshots/7-10.2.png)
-
+##### 11. Встановив бібліотеку requests.
+![image allert](screenshots/11.1..png)
