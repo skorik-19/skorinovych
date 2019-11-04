@@ -11,3 +11,4 @@
 ![image allert](screenshots/7-10.2.png)
 ##### 11. Встановив бібліотеку requests.
 ![image allert](screenshots/11.1..png)
+##### 12-14. Модифікував функцію health, дописав функціонал, зациклив main, створив аліас, закомітив server.logs.
