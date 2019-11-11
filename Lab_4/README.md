@@ -10,3 +10,5 @@
 ![image alt](screenshots/6.1.png)
 ##### 7. Запустив сайт
 ![image alt](screenshots/7.1.png)
+##### 8. Створив Dockerfile.monitoring, створив новий тег, витягнув server.log
+![image alt](screenshots/8.1.png)
