@@ -8,3 +8,5 @@
 #####  5-6. Створив власний репозиторій на Docker та виконав білд імеджа.
 [посилання на Docker](https://cloud.docker.com/repository/docker/skorik19/first_repository) 
 ![image alt](screenshots/6.1.png)
+##### 7. Запустив сайт
+![image alt](screenshots/7.1.png)
