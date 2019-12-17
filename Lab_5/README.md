@@ -11,3 +11,13 @@
 ###### - .PHONY: $(STATES) це несправжні цілі;
 ###### - run виконує команди;
 ###### - docker-prune очищує ресурси.
+##### 9. Запустив наступні команди:
+###### sudo make app 
+###### sudo make tests
+###### sudo make run
+###### sudo make test-app
+![image alt](screenshot/3.png)
+![image alt](screenshot/4.png)
+#### Браузер:
+![image alt](screenshot/5.png)
+![image alt](screenshot/6.png)
