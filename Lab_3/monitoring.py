@@ -14,8 +14,6 @@ log = logging.getLogger(__name__)
 
 
 def main(url):
-	while True:
-		time.sleep(60)
 		try:
 			r = requests.get(url)
 			r.raise_for_status()

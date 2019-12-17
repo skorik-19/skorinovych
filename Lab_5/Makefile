@@ -9,7 +9,7 @@ $(STATES):
 run:
 	@docker network create --driver=bridge appnet \
 	&& docker run --rm --name redis --net=appnet -d redis \
-	&& docker run --rm --name app --net=appnet -p 5000:5000 -d $(REPO):app \
+	&& docker run --rm --name app --net=appnet -d -p 5000:5000 -d $(REPO):app \
 	&& exit 0
 
 test-app:
