@@ -21,3 +21,4 @@
 #### Браузер:
 ![image alt](screenshot/5.png)
 ![image alt](screenshot/6.png)
+##### 10-12. Зупинив проект, очистив все та дода директиви в Makefile.
