@@ -2,3 +2,6 @@
 
 ##### 1-4. Почитав про docker-compose та Flask.
 ##### 5. Створив папки my_app та tests і закинув туди файли.
+##### 6. Перевірив чи працює сайт та запустив тести які успішно були пройдені:
+![image alt](screenshot/1.png)
+![image alt](screenshot/2.png)
